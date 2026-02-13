@@ -42,7 +42,7 @@ galaxy_arms:
     color: "synapse_cyan"
     items:
       - "Node.js"
-      - "PHP"
+      - "C++"
       - "Java"
   - name: "technologies"
     color: "axon_amber"
@@ -94,4 +94,4 @@ languages:
     - "SCSS"
     - "Shell"
     - "Makefile"
-  max_display: 8               # Maximum number of languages to show
+  max_display: 6               # Maximum number of languages to show
