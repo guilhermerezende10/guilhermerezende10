@@ -60,7 +60,7 @@ projects:
   - repo: "guilhermerezende10/FitMeta"
     arm: 0
     description: "A web-based platform designed to create, customize, and manage personalized training programs efficiently."
-- repo: "guilhermerezende10/React-Quiz"
+  - repo: "guilhermerezende10/React-Quiz"
     arm: 1
     description: "An interactive quiz application built with React."
 
