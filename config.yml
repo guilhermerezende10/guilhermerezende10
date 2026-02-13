@@ -61,7 +61,7 @@ projects:
     arm: 0
     description: "A web-based platform designed to create, customize, and manage personalized training programs efficiently."
   - repo: "guilhermerezende10/React-Quiz"
-    arm: 1
+    arm: 0
     description: "An interactive quiz application built with React."
 
 # Theme color overrides (optional — defaults to deep space palette)
